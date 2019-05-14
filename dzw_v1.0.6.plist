@@ -17,7 +17,7 @@
  <key>kind</key>
  <string>software-package</string>
  <key>url</key>
- <string>http://create.ucreatepark.cn/dzw_v1.0.5.ipa</string>
+ <string>http://create.ucreatepark.cn/dzw_v1.0.6.ipa</string>
  </dict>
  <dict>
  <key>kind</key>
@@ -40,8 +40,8 @@
  <dict>
  <key>bundle-identifier</key>
  <string>io.dcloud.dzyx</string>
- <key>1.0.5</key>
- <string>1.0.5</string>
+ <key>1.0.6</key>
+ <string>1.0.6</string>
  <key>kind</key>
  <string>software</string>
  <key>subtitle</key>
